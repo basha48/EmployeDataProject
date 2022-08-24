@@ -26,6 +26,8 @@ public class CountNumbers {
 		System.out.println("the value is "+value);
 		System.out.println("the value is "+number);
 		
+		System.out.println("hello world");
+		
 	//creating objects  
 //		COUNTNUMBERS C1=NEW COUNTNUMBERS(); 
 //		COUNTNUMBERS C2=NEW COUNTNUMBERS();  
